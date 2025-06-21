@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastav</h1>
 <h3 align="center">I'm Pursuing From Bachelor of Computer Applications</h3>
 
-
+site is live at https://utkarshsrivastav09.github.io/QR-Code-Generator/
 
 - 🔭 I’m currently working on **face recognition full-stack project**
 
